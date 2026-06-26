@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044421927609",
+    "project_id": "campuschronicles-5390e",
+    "storage_bucket": "campuschronicles-5390e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044421927609:android:e921a09efde94fe5c4f168",
+        "android_client_info": {
+          "package_name": "com.collegereview.campuschronicles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBhQmakQpJ6DAmXJIbr646F48nnQ9ptA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
